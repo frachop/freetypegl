@@ -1,0 +1,11 @@
+# master makefile
+
+all:
+	make all -C mac
+	
+clean:
+	make clean -C mac
+
+distclean:
+	make distclean -C mac
+	

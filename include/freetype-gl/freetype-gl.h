@@ -42,6 +42,6 @@
 #include "texture-font.h"
 
 /* extras */
-#include "vertex-buffer.h
+#include "vertex-buffer.h"
 
 #endif /* FREETYPE_GL_H */
